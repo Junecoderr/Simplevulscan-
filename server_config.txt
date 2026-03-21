@@ -1,0 +1,7 @@
+DB_PASSWORD=admin123
+    DB_USER=root
+    API_KEY=sl-1234567890abcdef
+    DEBUG_MODE=True
+    SSL_ENABLED=False
+    ADMIN_PASSWORD=password
+    FIREWALL_DISABLED=yes
